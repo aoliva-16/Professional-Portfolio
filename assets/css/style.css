@@ -53,3 +53,32 @@ footer h2 {
     font-size: 30px;
     margin: 0;
 }
+
+.me {
+    background: lightsteelblue;
+    width: 100%;
+}
+
+.section-title {
+    font-size: 40px;
+    padding: 0 100px 20px 100px;
+}
+
+.description {
+    width: 900px;
+    margin: 0 auto 30px auto;
+    color: black;
+    overflow: auto;
+}
+
+.description img {
+    width: 25%;
+    padding: 0 10px;
+    float: right;
+}
+
+.bio {
+    padding: 35px;
+    float: right;
+    width: 65%;
+}
