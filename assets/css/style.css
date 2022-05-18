@@ -99,3 +99,14 @@ footer h2 {
     background: whitesmoke;
     width: 100%;
 }
+
+.work div {
+    margin-bottom: 80px;
+    margin: 0 50px 0 350px;
+}
+
+.work img {
+    height: 400px;
+    width: 850px;
+}
+
