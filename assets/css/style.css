@@ -10,17 +10,15 @@ body {
 }
 
 header {
-    padding: 50px 45px;
+    padding: 40px 35px;
     background-color: lightslategrey;
 }
 
 header h1 {
     font-weight: bold;
     font-size: 40px;
-    background-color: lightgrey;
     margin: 0;
     display: inline;
-    border-radius: 15px 5px 15px 5px;
 }
 
 header a {
@@ -41,8 +39,17 @@ header nav ul li a {
     margin: 0 30px;
     font-weight: bold;
     font-size: 25px;
-    background-color: lightgrey;
-    border-radius: 15px 5px 15px 5px;
 }
 
+footer {
+    background: lightslategrey;
+    width: 100%;
+    padding: 40px 35px
+}
 
+footer h2 {
+    display: inline;
+    color: black;
+    font-size: 30px;
+    margin: 0;
+}
