@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+
+body {
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+header {
+    padding: 50px 45px;
+    background-color: lightslategrey;
+}
+
+header h1 {
+    font-weight: bold;
+    font-size: 40px;
+    background-color: lightgrey;
+    margin: 0;
+    display: inline;
+    border-radius: 15px 5px 15px 5px;
+}
+
+header a {
+    text-decoration: none;
+    color: black;
+}
+
+header nav {
+    float: right;
+    margin: 7px 0;
+}
+
+header nav ul li {
+    display: inline;
+}
+
+header nav ul li a {
+    margin: 0 30px;
+    font-weight: bold;
+    font-size: 25px;
+    background-color: lightgrey;
+    border-radius: 15px 5px 15px 5px;
+}
+
+
