@@ -1,7 +1,7 @@
 # Professional Portfolio
 
 ## Purpose 
-A website made for futer employers to use. Contains information about myself, projects I have created and colaborated with, and my contact information.
+A website made for futer employers to view. Contains information about myself, projects I have created and colaborated with, and my contact information.
 
 ## Built with
 * Html
