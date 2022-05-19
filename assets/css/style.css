@@ -56,7 +56,6 @@ footer h2 {
 
 .me {
     background: whitesmoke;
-    width: 100%;
 }
 
 .section-title {
@@ -97,7 +96,6 @@ footer h2 {
 
 .work {
     background: whitesmoke;
-    width: 100%;
 }
 
 .runbuddy img {
@@ -126,3 +124,8 @@ footer h2 {
 .photography {
     margin: 0 50px 0 350px;
 }
+
+.contact {
+    background: whitesmoke;
+}
+
